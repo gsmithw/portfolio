@@ -419,16 +419,16 @@ grid-column: 1/-1;
   }
 
   h1{
-    font-size: 3em;
+    font-size: 4em;
   }
 
   #nav-home{
     padding: 10px 30px;
-    font-size: 1em;
+    font-size: 1.2em;
     text-align: center;
   }
   li{
-    font-size: .7em;
+    font-size: 1em;
   }
 }
 
